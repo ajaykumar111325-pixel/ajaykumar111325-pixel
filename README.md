@@ -11,9 +11,6 @@
 # 💫 About Me:
 🔭 Data Analyst skilled in SQL, Python, Excel & Power BI  <br>📊 Built real-world projects like Sales Dashboard & Customer Insights Analysis  <br>🤝 Open to collaborating on Data Analytics & Dashboard projects  <br>🎯 Actively seeking Data Analyst Internship / Entry-level opportunities  <br>💬 Ask me about Data Analysis, SQL queries, Power BI dashboards & Excel  <br>⚡ Fun fact: I love turning raw data into meaningful business insights  <br>📫 Reach me at: ajaykumar111325@gmail.com<br><br>📊 Skills: SQL | Python | Excel | Power BI | DAX | Data Visualization  <br><br>📈 Projects:  <br>- Sales Dashboard (Power BI)  <br>- Customer Insights Analysis  <br>- E-commerce Data Analysis (SQL + Excel)<br>🚀 Ready to contribute to real-world business problems using data-driven insights
 
-## 🔄 Data Journey
-
-<img src="https://raw.githubusercontent.com/ajaykumar111325-pixel/ajaykumar111325-pixel/main/yourgif.gif" width="500"/>
 
 
 ## 🌐 Socials:
